@@ -36,6 +36,9 @@ Langages de programmation simplifiés
 --------------------------------------
 Il s'agit souvent de reprendre le principe de la tortue du LOGO : donner des instructions dans un langage de programmation d'aspect classique pour parcourir un trajet et faire un dessin sur le chemin. Certains de ces langages sont sophistiqués et permettent de faire des animations élaborées. Si l'activité est préparée par un adulte, cela doit être abordable pour un enfant de 8 ans.
 
+### Algoid
+Un langage et un IDE simplifiés pour faire bouger la tortue et créer des jeux. Les tutoriels sont en FR / EN et reprennent les bases. http://algoid.net
+
 ### Kojo
 On voit bien la méthaphore de la tortue. Pourrait être plus facile à faire marcher. http://kogics.net/
 
